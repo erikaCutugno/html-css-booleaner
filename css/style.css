@@ -25,3 +25,20 @@ header {
 .captions{
     font-size: 13px;
 }
+
+p{
+    font-size: 15px;
+}
+thead{
+    color: white;
+    background-color: #20A9E5;
+}
+tbody{
+    background-color: #B1E5F2;
+}
+.second{
+    background-color: white;
+}
+.third{
+    width: 60%;
+}
